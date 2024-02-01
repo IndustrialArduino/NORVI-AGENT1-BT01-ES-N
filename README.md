@@ -11,3 +11,6 @@ Digital Inputs
 Analog Inputs with 0-10v
 transistor outputs
 DIN-Rail mount
+
+Datasheet:   https://drive.google.com/open?id=1gknCLOR6mAAxLpGpAA3GYhRbR1YMH7FE&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1eV2SFo1sVyg_47L_Qmfd7_WaG3-yq7dc&usp=drive_fs
